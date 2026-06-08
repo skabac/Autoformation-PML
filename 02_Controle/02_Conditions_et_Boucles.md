@@ -306,7 +306,7 @@ Crée une fonction qui retourne le plus grand nombre d'une liste
 ## ✅ Résumé du module
 
 | Concept | Syntaxe |
-|---------|---------|
+|---------|----------|
 | **Condition** | `IF condition THEN ... ENDIF` |
 | **Sinon si** | `ELSEIF condition THEN ...` |
 | **Sinon** | `ELSE ...` |
